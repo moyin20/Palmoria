@@ -14,11 +14,12 @@ While the Bonus Rules data was imported and unpivoted to be able to allocate bon
 Custom columns were calculated to generate the Annual Bonus, and Bonus inclusive salary for the employees while conditional columns was created to create a salary band and to ensure that the company follows the rules of paying #90,000 as the minimum salary. Then the Palmoria employee data and the bonus rules data were merged to have a complete dataset.
 Table was created to keep all the measures calculated in an organized format.
 
-## Dashboard Creation
+## Create Dashboard In PowerBI
  * Pie Chart
 * Bar Chart
 * Column Chart
 * Clustered Bar Chart
 * Clustered Column Chart
 * Card
-
+## Dashboard
+* 
