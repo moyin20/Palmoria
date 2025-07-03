@@ -15,10 +15,10 @@ Custom columns were calculated to generate the Annual Bonus, and Bonus inclusive
 Table was created to keep all the measures calculated in an organized format.
 
 ## Dashboard Creation
-	Pie Chart
-	Bar Chart
-	Column Chart
-	Clustered Bar Chart
-	Clustered Column Chart
-	Card
+ * Pie Chart
+* Bar Chart
+* Column Chart
+* Clustered Bar Chart
+* Clustered Column Chart
+* Card
 
