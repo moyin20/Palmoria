@@ -22,5 +22,5 @@ Table was created to keep all the measures calculated in an organized format.
 * Clustered Column Chart
 * Card
 ## Dashboard
-* https://github.com/moyin20/Palmoria/blob/main/Palmoria%20Dashboard.png "See a screenshot of the dashboard in png.
-*  
+* [See a screenshot of the dashboard in png"]https://github.com/moyin20/Palmoria/blob/main/Palmoria%20Dashboard.png 
+*  [Download the file ]https://github.com/moyin20/Palmoria/blob/main/Assignment.pbix and open in PowerBI Desktop for interactive viewing.
